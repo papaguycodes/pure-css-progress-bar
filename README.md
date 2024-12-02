@@ -12,7 +12,7 @@ A sleek, liquid-style progress bar built with pure HTML, CSS, and JavaScript. Th
 
 ## Demo
 ### Video Preview
-[![Watch the demo](https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.png)](https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.avi)
+[![Watch the demo](https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.png)](https://github.com/papaguycodes/pure-css-progress-bar/blob.main/demo/purecss.avi)
 
 <video src="https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.mp4" controls="controls" style="max-width: 100%;">
     Your browser does not support the video tag.
