@@ -11,6 +11,8 @@ A sleek, liquid-style progress bar built with pure HTML, CSS, and JavaScript. Th
 - **Custom Footer**: Includes a compact, animated footer with links.
 
 ## Demo
+### Video Preview
+[![Watch the demo](https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.mp4)](https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.mp4)
 
 <video src="https://github.com/papaguycodes/pure-css-progress-bar/demo/purecss.mp4" controls="controls" style="max-width: 100%;">
     Your browser does not support the video tag.
